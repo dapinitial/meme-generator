@@ -2,7 +2,7 @@
 
 # dependencies
 /node_modules
-./src/actions/secrets.js
+/src/actions/secrets.js
 
 # testing
 /coverage
