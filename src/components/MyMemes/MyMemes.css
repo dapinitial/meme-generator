@@ -1,0 +1,8 @@
+.MyMeme-img {
+  border: 3px solid: #ccc;
+  border-radius: 4px;
+  display: inline-block;
+  margin: 5px;
+  position: relative;
+  width: 220px;
+}
